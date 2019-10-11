@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>16.jpg</filename>
-	<path>D:\tensorflow_own_od\object_detection_demo\data1\images\train\16.jpg</path>
+	<path>D:\tensorflow_own_od\object_detection_demo\data\images\train\16.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>puppy</name>
+		<name>maggi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>190</xmin>
-			<ymin>146</ymin>
-			<xmax>592</xmax>
-			<ymax>409</ymax>
+			<xmin>5</xmin>
+			<ymin>32</ymin>
+			<xmax>795</xmax>
+			<ymax>496</ymax>
 		</bndbox>
 	</object>
 </annotation>
